@@ -1,5 +1,5 @@
 ```sh
-git clone <你的仓库地址> dsh-cyber
+git clone https://github.com/AAAkater/dsh-cyber.git dsh-cyber
 cd dsh-cyber
 dsh plugin --profile web add .
 ```
